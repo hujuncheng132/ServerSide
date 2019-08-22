@@ -18,7 +18,7 @@
 # clean:
 # 	rm -rf *.o *.a
 
-#动态链接编译过程
+# 动态链接编译过程
 DYNAMIC_LIB_NAME = mymath
 TARGET = main
 
